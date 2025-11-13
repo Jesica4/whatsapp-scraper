@@ -1,0 +1,18 @@
+[
+  {
+    "number": "491234567890",
+    "is_registered": true,
+    "profile_picture": "https://example.com/pic.jpg",
+    "about": "Living my best life!",
+    "about_last_updated": "2024-11-02T10:22:00Z",
+    "account_type": "personal"
+  },
+  {
+    "number": "14155550123",
+    "is_registered": true,
+    "profile_picture": "https://example.com/pic2.jpg",
+    "about": "Available on WhatsApp only.",
+    "about_last_updated": "2024-10-15T08:45:00Z",
+    "account_type": "business"
+  }
+]

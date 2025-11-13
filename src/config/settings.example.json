@@ -1,0 +1,6 @@
+{
+  "default_output_format": "json",
+  "media_base_url": "https://example.com/whatsapp/avatars",
+  "rate_limit_per_minute": 800,
+  "log_level": "INFO"
+}
